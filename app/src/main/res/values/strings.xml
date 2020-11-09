@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Murotal-Q</string>
+
+    <string name="annas1">قُلْ اَعُوْذُ بِرَبِّ النَّاسِ</string>
+    <string name="annas2">مَلِكِ النَّاسِۙ</string>
+    <string name="annas3">اِلٰهِ النَّاسِِۙۙ</string>
+    <string name="annas4">مِنۡ شَرِّ الۡوَسۡوَاسِ  ۙ الۡخَـنَّاسِِۙ</string>
+    <string name="annas5">الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِِۙۙ</string>
+    <string name="annas6">مِنَ الۡجِنَّةِ وَالنَّاسِ</string>
+
+    <string name="alfalaq1">قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ</string>
+    <string name="alfalaq2">مِنۡ شَرِّ مَا خَلَقَِۙۙ</string>
+    <string name="alfalaq3">وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَِۙۙ</string>
+    <string name="alfalaq4">وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِِۙۙ</string>
+    <string name="alfalaq5">وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَِۙ</string>
+
+    <string name="alikhlas1">قُلۡ هُوَ اللّٰهُ اَحَدٌ</string>
+    <string name="alikhlas2">اَللّٰهُ الصَّمَدٌُ</string>
+    <string name="alikhlas3">لَمۡ يَلِدۡ ۙ وَلَمۡ يُوۡلَدٌۡ</string>
+    <string name="alikhlas4">وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌٌ</string>
+</resources>
